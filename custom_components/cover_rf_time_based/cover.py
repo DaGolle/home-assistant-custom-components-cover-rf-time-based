@@ -106,7 +106,7 @@ POSITION_SCHEMA = cv.make_entity_service_schema(
 )
 
 
-ACTION_SCHEMA = vcv.make_entity_service_schema(
+ACTION_SCHEMA = cv.make_entity_service_schema(
     {
         vol.Required(ATTR_ACTION): cv.string
     }
