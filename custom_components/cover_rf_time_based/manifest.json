@@ -1,8 +1,8 @@
 {
   "domain": "cover_rf_time_based",
-  "name": "Cover Time Based (script/entity)",
+  "name": "Cover RF Time Based (script/entity)",
   "version": "1.1.4",
-  "documentation": "https://github.com/nagyrobi/home-assistant-custom-components-cover-rf-time-based",
+  "documentation": "https://github.com/DaGolle/home-assistant-custom-components-cover-rf-time-based.git",
   "iot_class": "assumed_state",
-  "codeowners": ["@davidramosweb", "@nagyrobi", "@Alfiegerner"]
+  "codeowners": ["@davidramosweb", "@nagyrobi", "@Alfiegerner", "@DaGolle"]
 }
